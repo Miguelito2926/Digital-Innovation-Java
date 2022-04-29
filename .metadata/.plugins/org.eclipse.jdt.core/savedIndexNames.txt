@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Nextbox\Desktop\Boot Camp Carrefour\Java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3133669032.index
+1569159673.index
