@@ -1,6 +1,6 @@
-package br.com.dio.casting;
+package br.com.dio.convert;
 
-public class Casting {
+public class Conversao {
 
 	public static void main(String[] args) {
 
@@ -24,6 +24,12 @@ public class Casting {
 		float f1 = 10.5f;
 		d1 = f1;
 				
+		
+		System.out.println(b1);
+		System.out.println(l1);
+		System.out.println(i2);
+		System.out.println(i3);
+		System.out.println(d1);
 		
 	}
 
